@@ -9,7 +9,7 @@ ArduinoにRTCを接続する場合，ICの型番や製造メーカーが異な�
 
 
 
-## ライブラリ
+## ユーティリティ
 
 - [RTC_Utils](https://github.com/ArduinoRTC/RTC_Utils) : RTCのICの種別によるソースコードの違いを吸収するためのライブラリ
 
